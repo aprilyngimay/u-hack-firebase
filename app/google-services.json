@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "524461923967",
+    "firebase_url": "https://e-rrigate-testing.firebaseio.com",
+    "project_id": "e-rrigate-testing",
+    "storage_bucket": "e-rrigate-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524461923967:android:37d858a0f82db336",
+        "android_client_info": {
+          "package_name": "sti.gimay.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524461923967-oh7jjvm6bg7ip65e4tha3ics7kvjltpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgnZdSDVXktSPSm7yc1uG413WlJTUeZe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
